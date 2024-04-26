@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQL"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/byte-buddy-1.14.11.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/classmate-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/hibernate-core-6.4.2.Final.jar" sourcepath="C:/Software Installed by Me/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/hibernate-validator-6.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/jakarta.activation-api-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/jaxb-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/jaxb-impl-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/antlr4-runtime-4.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/jboss-logging-3.4.1.Final (1).jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/jakarta.transaction-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software Installed by Me/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
